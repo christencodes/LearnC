@@ -1,0 +1,65 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build folders
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+x64/Debug/
+x64/Release/
+
+# Visual C++ files
+*.vcxproj.user
+*.vcxproj.filters.user
+*.VC.db
+*.VC.VC.opendb
+*.sdf
+*.opensdf
+
+# C/C++ intermediate and output files
+*.obj
+*.o
+*.lo
+*.la
+*.al
+*.lib
+*.a
+*.dll
+*.exe
+*.pdb
+*.idb
+*.ipdb
+*.ipch
+*.ilk
+*.pch
+
+# NuGet
+packages/
+*.nupkg
+
+# Rider / ReSharper
+_ReSharper*/
+*ReSharper*/
+*.DotSettings.user
+
+# Test results, coverage, and profiling
+*.coverage
+*.coveragexml
+*.trx
+*.psess
+*.vsp
+*.vspx
+
+# Logs
+*.log
+
+# Others
+out/
+
+# Git LFS locks
+*.lock
