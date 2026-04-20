@@ -1,3 +1,2 @@
 ﻿  seePlusPlusFun.cpp
-C:\Users\chris\repos\seePlusPlusFun\seePlusPlusFun.cpp(22,7): error C2220: the following warning is treated as an error
-C:\Users\chris\repos\seePlusPlusFun\seePlusPlusFun.cpp(22,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  seePlusPlusFun.vcxproj -> C:\Users\chris\repos\seePlusPlusFun\x64\Debug\seePlusPlusFun.exe

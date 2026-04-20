@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A332A1D5-48A2-402C-B1A8-8936DAE9AF6F}|seePlusPlusFun.vcxproj|C:\\Users\\chris\\repos\\seePlusPlusFun\\seePlusPlusFun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A332A1D5-48A2-402C-B1A8-8936DAE9AF6F}|seePlusPlusFun.vcxproj|solutionrelative:seePlusPlusFun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A332A1D5-48A2-402C-B1A8-8936DAE9AF6F}|seePlusPlusFun.vcxproj|C:\\Users\\chris\\repos\\seePlusPlusFun\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A332A1D5-48A2-402C-B1A8-8936DAE9AF6F}|seePlusPlusFun.vcxproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,12 +26,24 @@
               "Title": "seePlusPlusFun.cpp",
               "DocumentMoniker": "C:\\Users\\chris\\repos\\seePlusPlusFun\\seePlusPlusFun.cpp",
               "RelativeDocumentMoniker": "seePlusPlusFun.cpp",
-              "ToolTip": "C:\\Users\\chris\\repos\\seePlusPlusFun\\seePlusPlusFun.cpp",
-              "RelativeToolTip": "seePlusPlusFun.cpp",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBUAAAAKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\chris\\repos\\seePlusPlusFun\\seePlusPlusFun.cpp*",
+              "RelativeToolTip": "seePlusPlusFun.cpp*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-13T23:37:41.229Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\chris\\repos\\seePlusPlusFun\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\chris\\repos\\seePlusPlusFun\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-16T04:57:18.199Z"
             }
           ]
         }
