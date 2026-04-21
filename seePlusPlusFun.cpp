@@ -1,4 +1,7 @@
 #include <iostream>
+#include <fstream>
+using namespace std;
+
 
 int main() 
 {
@@ -65,16 +68,44 @@ int main()
 	//std::cout << "My name is ChristenCodes!\n";
 	//std::cout << "I am " << age << " years old!\n";
 
-	int age{};
-	int date{};
+	//int age{};
+	//int date{};
 
-	std::cout << "Enter your age\n";
-	std::cin >> age;
-	std::cout << "Enter the todays date\n";
-	std::cin >> date;
-	std::cout << "Your are " << age << " years old" << "and todays date is " << date;
+	//std::cout << "Enter your age\n";
+	//std::cin >> age;
+	//std::cout << "Enter the todays date\n";
+	//std::cin >> date;
+	//std::cout << "Your are " << age << " years old" << "and todays date is " << date;
 
-	
-	
+	//std::cout << "Enter a number ";
+	//int x{};
+	//std::cin >> x;
+	//std::cout << "You entered " << x << '\n';
+
+	//int x{};
+	//int y{};
+	//int z{};
+
+	//std::cout << "Enter three numbers: ";
+	//std::cin >> x >> y >> z;
+	//std::cout << "You entered " << x << ", " << y << ", and " << z << ".\n";
+
+
+	//return 0;
+
+	ofstream MyFile("testfile.txt");
+
+	std::string answer{};
+	std::cout << "What is your name? ";
+	std::cin >> answer;
+	MyFile << answer;
+	MyFile.close();
+
+
+
+
 	return 0;
+	
+	
+
 }
